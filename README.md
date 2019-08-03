@@ -1,0 +1,2 @@
+# SmartGlove
+Embedded System Project 
